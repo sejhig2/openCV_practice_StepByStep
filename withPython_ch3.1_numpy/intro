@@ -1,0 +1,9 @@
+numpy 공식 웹 사이트 : www.numpy.org
+numpy 개발자 참조 문서 : docs.scipy.org/doc/numpy/genindex.html
+
+NumPy 배열에서 정보를 얻는 기본 속성
+ndim : 차원(축)의 수
+shape : 각 차원의 크기 (튜플)
+size : 전체 요소의 개수, shape의 각 항목의 곱
+dtype : 요소의 데이터 타입
+itemsize : 각 요소의 바이트 크기
